@@ -1,4 +1,4 @@
-# (GPS + ESP826)
+# Location Tracker 
 
 This project sends live GPS coordinates to ThingSpeak when the SOS button is pressed using:
 
